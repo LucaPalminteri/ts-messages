@@ -21,7 +21,6 @@ A comprehensive error message management file for TypeScript applications. This 
 
 That's it! No NPM installations or package dependencies required.
 
-
 ## Error Code Reference
 
 Below is a sample of the available error codes. For the full list, refer to the source code.
@@ -306,7 +305,6 @@ export const YourCustomErrors = {
 
 // Don't forget to include your new category in getErrorByCode and getErrorsByCategory functions
 ```
-
 
 ## License
 
